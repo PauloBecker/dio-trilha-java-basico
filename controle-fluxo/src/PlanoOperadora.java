@@ -5,6 +5,7 @@ public class PlanoOperadora {
 		String plano = "M"; // M / T
 
 		switch (plano) {
+			
 			case "T": {
 				System.out.println("5Gb Youtube");
 			}
